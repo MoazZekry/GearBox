@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "662051709983",
+    "project_id": "gearbox-8c179",
+    "storage_bucket": "gearbox-8c179.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662051709983:android:6033b77845400467bb212a",
+        "android_client_info": {
+          "package_name": "com.example.gearbox3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIASQnd7pcl5w3KnM4N-bqotyZ-ftO8nY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
